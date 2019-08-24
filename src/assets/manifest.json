@@ -1,0 +1,8 @@
+{
+    "short_name": "Arkitech",
+    "name": "Arkitech IT Solutions Pvt Ltd",
+    "start_url": "https://arkitech.co.in/",
+    "display": "standalone",
+    "background_color": "#ff4081",
+    "theme_color": "#673ab7"
+  }
